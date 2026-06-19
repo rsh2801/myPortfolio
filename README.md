@@ -3,7 +3,7 @@
 A personal portfolio website built with React 19, Tailwind CSS 4, and Vite 6, featuring smooth animations, dark/light theme, and a custom
 interactive cursor.
 
-## Live Demo
+## Live Demo - https://6a33e59288fdf989c12912dd--benevolent-cannoli-a10706.netlify.app/
 
 Deployed on Netlify.
 
